@@ -26,10 +26,10 @@
 <!-- :man_student: &nbsp; ***Persuing MSc in Big Data Analytics, Robert Gordon University<br />*** -->
 :man_student: &nbsp; ***B.Tech: Graduate in the Department of Electrical & Electronics Engineering (EEE), National Institute of Technology Tiruchirappalli***
 
-:briefcase: &nbsp; *** AI Engineer specialized in VLMs, LLM, SSL, Multitask-learning,CL,Deepmetric Learning, GenAI @ BPH200<br />***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *** Former Research Assistant specialized in RS,SSL @ University of Colombo School of Computing:UAVR Lab<br />***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *** Former Undergraduate Research Fellow @ Indian Space Research Organisation:ISRO<br />***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *** Former Research Intern @LIRNEasia <br />***
+:briefcase: &nbsp; ***AI Engineer specialized in VLMs, LLM, SSL, Multitask-learning,CL,Deepmetric Learning, GenAI @ BPH200<br />***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Former Research Assistant specialized in RS,SSL @ University of Colombo School of Computing:UAVR Lab<br />***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Former Undergraduate Research Fellow @ Indian Space Research Organisation:ISRO<br />***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Former Research Intern specialized in Remote Sensing, CV  @LIRNEasia <br />***
 
 :computer: &nbsp;***Have hands-on experience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP/NLU, Data Science, and Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
 
