@@ -54,7 +54,11 @@
 ***Deep Learning*** | ***Computer Vision*** | ***NLP*** | ***Remote Sensing*** | ***Drone Operation*** | ***Multimodal AI***| ***TinyML***
   
 <br/>
-<img src="drone.png" alt="Deep Learning" />
+<img src="deep-learning.png" alt="Deeplearning" />
+<img src="Computer_vision.jpg" alt="cv" />
+<img src="remotesensing.jpg" alt="rs" />
+<img src="drone.png" alt="drone" />
+<img src="multimodal.jpg" alt="mm" />
 <!-- <img src="file:///path/to/your/local/repository/images/deep-learning.png" alt="Deep Learning" /> -->
 <!-- <img src="file:///path/to/your/local/repository/images/data-science.png" alt="Data Science" /> -->
 <!-- <img src="file:///path/to/your/local/repository/images/visual.png" alt="Visual" /> -->
