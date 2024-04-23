@@ -1,10 +1,10 @@
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Isuru+here...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Puru+here...)](https://git.io/typing-svg)
   
 ` AI ENGINEER @BPH200 | RESEARCH ASSISTANT @UAVR LABS(UCSC) | AR/VR/MR, VLM, CV, LLM, GraphML, RS `
 
-<img src="mygif.gif" width="600" height="300"/>
+<img src="mygif.gif" width="600" height="200"/>
 
 <br/>
   
