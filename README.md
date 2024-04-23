@@ -54,13 +54,20 @@
 ***Deep Learning*** | ***Computer Vision*** | ***NLP*** | ***Remote Sensing*** | ***Drone Operation*** | ***Multimodal AI***| ***TinyML***
   
 <br/>
+<img src="drone.png" alt="Deep Learning" />
+<!-- <img src="file:///path/to/your/local/repository/images/deep-learning.png" alt="Deep Learning" /> -->
+<!-- <img src="file:///path/to/your/local/repository/images/data-science.png" alt="Data Science" /> -->
+<!-- <img src="file:///path/to/your/local/repository/images/visual.png" alt="Visual" /> -->
+<!-- <img src="file:///path/to/your/local/repository/images/desktop.png" alt="Desktop" /> -->
+
+
 <!-- ![github]() -->
 
-![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/ai.png)
+<!-- ![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/ai.png)
 ![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/deep-learning.png)
 ![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/data-science.png)
 ![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/visual.png)
-![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/desktop.png)
+![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/desktop.png) -->
 
 </div>
 
