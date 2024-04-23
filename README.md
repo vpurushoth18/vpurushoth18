@@ -93,7 +93,7 @@
 
 > ### <sup> GITHUB STATS </sup>
 <br/>
-</div>
+<!-- </div>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=machinelearningzuu&layout=compact&theme=vision-friendly-dark)](https://github.com/machinelearningzuu/github-readme-stats)
 
@@ -104,4 +104,4 @@
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=machinelearningzuu&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/machinelearningzuu/github-readme-activity-graph)
 
 </div>
-</div>
+</div> -->
