@@ -31,15 +31,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Former Undergraduate Research Fellow @ Indian Space Research Organisation:ISRO<br />***
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Former Research Intern specialized in Remote Sensing, CV  @LIRNEasia <br />***
 
-:computer: &nbsp;***Have hands-on experience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP/NLU, Data Science, and Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
-
-  - Large Language Models (LLMs): Highly Experienced in working with state-of-the-art LLMs such as GPT-3, LLaMA, Falcon, and Mistral along with Fine-tuning and RAGH applications
+:computer: &nbsp;***Have hands-on experience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to Computer Vision, NLP on Cloud Platforms and Embedded Systems (TinyML)***
+  - Vision Language Models (VLMs): Highly Experienced in working with state-of-the-art VLMs such as CLIP, BLIP, CLIPSeg, ViLT and X-CLIP along with creating pretext task training for an efficient way of adaptation.
+  - Large Language Models (LLMs): Highly Experienced in working with state-of-the-art LLMs such as GPT-3, LLaMA, Falcon, and Mistral along with Fine-tuning.
+  - Self-supervised Learning (SSL): Proficient in generating and tweaking pretext training strategies for various sectors of data, including vision problems, text problems, audio problems, vision and text problems, multi-spectral problems, and hyperspectral problems.
   - Generative AI: Proficient in generative AI techniques and their applications.
   - Deep Learning: Proficient in building and fine-tuning neural network models.
   - Machine Learning: Skilled in developing machine learning algorithms.
-  - NLP (Natural Language Processing): Experienced in text analysis and language modeling.
+  <!-- - NLP (Natural Language Processing): Experienced in text analysis and language modeling. -->
   - Computer Vision: Knowledgeable in image processing and computer vision techniques.
-  - Mobile Applications: Specialized in integrating AI into mobile apps.
+  <!-- - Mobile Applications: Specialized in integrating AI into mobile apps. -->
   - Embedded Systems (TinyML): Expertise in deploying machine learning on resource-constrained systems.
 
 #
