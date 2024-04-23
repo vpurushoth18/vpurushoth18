@@ -4,7 +4,7 @@
   
 ` AI ENGINEER @BPH200 | RESEARCH ASSISTANT @UAVR LABS(UCSC) | AR/VR/MR, VLM, CV, LLM, GraphML, RS `
 
-<img src="mygif.gif" width="600" height="200"/>
+<img src="giphy.gif" width="600" height="200"/>
 
 <br/>
   
@@ -40,6 +40,7 @@
   - Machine Learning: Skilled in developing machine learning algorithms.
   <!-- - NLP (Natural Language Processing): Experienced in text analysis and language modeling. -->
   - Computer Vision: Knowledgeable in image processing and computer vision techniques.
+  - Time Series:Skilled in developing deep learning algorithms for analyzing temporal content in hyperspectral/multispectral cube data. Also experienced in state-of-the-art models in time series transformer models like PatchTST, TimeGPT, Lag-Llama, TimesFM, and Chronos..
   <!-- - Mobile Applications: Specialized in integrating AI into mobile apps. -->
   - Embedded Systems (TinyML): Expertise in deploying machine learning on resource-constrained systems.
 
@@ -50,13 +51,13 @@
 
 <div align=center>
   
-***Deep Learning*** | ***Computer Vision*** | ***NLP*** | ***Remote Sensing*** | ***Drone Operation*** | ***TinyML***
+***Deep Learning*** | ***Computer Vision*** | ***NLP*** | ***Remote Sensing*** | ***Drone Operation*** | ***Multimodal AI***| ***TinyML***
   
 <br/>
+<!-- ![github]() -->
 
 ![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/ai.png)
 ![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/deep-learning.png)
-![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/natural-language-processing.png)
 ![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/data-science.png)
 ![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/visual.png)
 ![github](https://github.com/machinelearningzuu/machinelearningzuu/blob/main/desktop.png)
