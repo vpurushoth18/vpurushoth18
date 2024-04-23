@@ -4,7 +4,7 @@
   
 ` AI ENGINEER @BPH200 | RESEARCH ASSISTANT @UAVR LABS(UCSC) | AR/VR/MR, VLM, CV, LLM, GraphML, RS `
 
-<img src="mygif.gif" width="200" height="200"/>
+<img src="mygif.gif" width="600" height="300"/>
 
 <br/>
   
