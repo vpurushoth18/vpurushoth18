@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Puru+here...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Puru!!+here...)](https://git.io/typing-svg)
   
 ` AI ENGINEER @BPH200 | RESEARCH ASSISTANT @UAVR LABS(UCSC) | AR/VR/MR, VLM, CV, LLM, GraphML, RS `
 
@@ -50,7 +50,7 @@
 
 <div align=center>
   
-***Deep Learning*** | ***NLP*** | ***Data Science*** | ***Data Engineering*** | ***Internet of Things*** | ***TinyML*** | ***Android***
+***Deep Learning*** | ***Computer Vision*** | ***NLP*** | ***Remote Sensing*** | ***Drone Operation*** | ***TinyML***
   
 <br/>
 
@@ -91,7 +91,7 @@
 </div>
 <div align=left>
 
-> ### <sup> GITHUB STATS </sup>
+<!-- > ### <sup> GITHUB STATS </sup>
 <br/>
 <!-- </div>
 
@@ -104,4 +104,4 @@
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=machinelearningzuu&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/machinelearningzuu/github-readme-activity-graph)
 
 </div>
-</div> -->
+</div> --> -->
