@@ -24,7 +24,7 @@
 > ### <sup> ABOUT ME </sup>
 
 <!-- :man_student: &nbsp; ***Persuing MSc in Big Data Analytics, Robert Gordon University<br />*** -->
-:man_student: &nbsp; *** B.Tech: Graduate in the Department of Electrical & Electronics Engineering (EEE), National Institute of Technology Tiruchirappalli ***
+:man_student: &nbsp; ***B.Tech: Graduate in the Department of Electrical & Electronics Engineering (EEE), National Institute of Technology Tiruchirappalli***
 
 :briefcase: &nbsp; *** AI Engineer specialized in VLMs, LLM, SSL, Multitask-learning,CL,Deepmetric Learning, GenAI @ BPH200<br />***
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *** Former Research Assistant specialized in RS,SSL @ University of Colombo School of Computing:UAVR Lab<br />***
