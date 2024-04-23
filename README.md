@@ -24,12 +24,12 @@
 > ### <sup> ABOUT ME </sup>
 
 <!-- :man_student: &nbsp; ***Persuing MSc in Big Data Analytics, Robert Gordon University<br />*** -->
-:man_student: &nbsp; ***Graduate in the Department of Electrical & Electronics Engineering (EEE), National Institute of Technology Tiruchirappalli ***
+:man_student: &nbsp; *** B.Tech: Graduate in the Department of Electrical & Electronics Engineering (EEE), National Institute of Technology Tiruchirappalli ***
 
-:briefcase: &nbsp; ***Senior Data Scientist specialized in NLP, NLU, LLM, GraphML, GenAI @ Axiata Digital Labs<br />***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Assistant Lecturer @ Sri Lanka Institute of Information Technology<br />***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Former Machine Learning Consultant @ Fcode Labs<br />***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Public Speaker - Generative AI<br />***
+:briefcase: &nbsp; *** AI Engineer specialized in VLMs, LLM, SSL, Multitask-learning,CL,Deepmetric Learning, GenAI @ BPH200<br />***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *** Former Research Assistant specialized in RS,SSL @ University of Colombo School of Computing:UAVR Lab<br />***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *** Former Undergraduate Research Fellow @ Indian Space Research Organisation:ISRO<br />***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *** Former Research Intern @LIRNEasia <br />***
 
 :computer: &nbsp;***Have hands-on experience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP/NLU, Data Science, and Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
 
